@@ -1,90 +1,50 @@
 <h1 align="center">Hi, I'm Dinesh</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nimmadineshkumar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" alt="data analytics" width="400"
+<img align="right" width="380"
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
+### 👋 About Me
+
 - I’m a **passionate Data Analyst with 7+ years of experience** specializing in **dashboard creation, KPI tracking, and process automation**.
-
-- My expertise spans **Power BI, Google Looker Studio, Kibana (Elasticsearch), GCP BigQuery, Advanced Excel, VBA/Macros, Power Query, and MySQL**.
-
-- I have a proven track record of **enabling leadership teams with data-driven insights**, streamlining reporting workflows, and **training stakeholders to use data effectively**.
-
+- Expertise across **Power BI, Google Looker Studio, Kibana (Elasticsearch), GCP BigQuery, Advanced Excel, VBA/Macros, Power Query, and MySQL**.
+- Proven record of **enabling leadership teams with data-driven insights**, streamlining reporting workflows, and training stakeholders.
 - My goal is to make **data simple, visual, and actionable**.
 
-- 📫 Reach me at **nimmadineshkumar@gmail.com**
+📫 **Reach me at:** `nimmadineshkumar@gmail.com`
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nimmadineshkumar/" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nimmadineshkumar/)
 
 ---
 
-<h3 align="left">Analytics, BI & Data Tools:</h3>
-<p align="left">
+### 🧠 Analytics, BI & Data Tools
 
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373590/powerbi.svg" alt="Power BI" width="40" height="40"/>
-  </a>
+#### Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=fff)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=fff)
 
-  <!-- Advanced Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Excel" width="40" height="40"/>
-  </a>
+#### Data Platforms & Databases
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=fff)
 
-  <!-- Google Looker Studio -->
-  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354012/looker.svg" alt="Looker Studio" width="40" height="40"/>
-  </a>
+#### Analytics & Automation
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge)
 
-  <!-- Google BigQuery -->
-  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="BigQuery" width="40" height="40"/>
-  </a>
-
-  <!-- Kibana -->
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353863/kibana.svg" alt="Kibana" width="40" height="40"/>
-  </a>
-
-  <!-- Elasticsearch -->
-  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373778/elasticsearch.svg" alt="Elasticsearch" width="40" height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-</p>
+#### Programming & Version Control
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
