@@ -7,44 +7,59 @@
 <img align="right" width="380"
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-### 👋 About Me
+<h3>About Me</h3>
 
-- I’m a **passionate Data Analyst with 7+ years of experience** specializing in **dashboard creation, KPI tracking, and process automation**.
-- Expertise across **Power BI, Google Looker Studio, Kibana (Elasticsearch), GCP BigQuery, Advanced Excel, VBA/Macros, Power Query, and MySQL**.
-- Proven record of **enabling leadership teams with data-driven insights**, streamlining reporting workflows, and training stakeholders.
-- My goal is to make **data simple, visual, and actionable**.
+<ul>
+  <li>Passionate <b>Data Analyst</b> with <b>7+ years of experience</b> in dashboard creation, KPI tracking, and process automation.</li>
+  <li>Expert in <b>Power BI, Google Looker Studio, Kibana (Elasticsearch), GCP BigQuery, Advanced Excel, VBA/Macros, Power Query, and MySQL</b>.</li>
+  <li>Strong record of enabling leadership teams with <b>data-driven insights</b>, streamlining reporting, and training stakeholders.</li>
+  <li>My goal is to make <b>data simple, visual, and actionable</b>.</li>
+</ul>
 
-📫 **Reach me at:** `nimmadineshkumar@gmail.com`
+📫 <b>Reach me:</b> nimmadineshkumar@gmail.com
 
----
+<hr/>
 
-### 🔗 Connect with me
+<h3>Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nimmadineshkumar/)
+<p>
+  <a href="https://www.linkedin.com/in/nimmadineshkumar/" target="_blank">
+    <img src="https://vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/>
+  </a>
+</p>
 
----
+<hr/>
 
-### 🧠 Analytics, BI & Data Tools
+<h3>Analytics, BI & Data Tools</h3>
 
-#### Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=fff)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=fff)
+<h4>Business Intelligence & Visualization</h4>
+<p>
+  <img src="https://vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="45" height="45" title="Power BI"/>
+  <img src="https://cdn.simpleicons.org/googleanalytics/4285F4" width="45" height="45" title="Google Looker Studio"/>
+  <img src="https://vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="45" height="45" title="Kibana"/>
+</p>
 
-#### Data Platforms & Databases
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=fff)
+<h4>Data Platforms & Databases</h4>
+<p>
+  <img src="https://vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" height="45" title="Google BigQuery"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="SQL Server"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" width="45" height="45" title="Elasticsearch"/>
+  
+</p>
 
-#### Analytics & Automation
-![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff)
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
-![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge)
+<h4>Analytics, Automation & ETL</h4>
+<p>
+  <img src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" width="45" height="45" title="Advanced Excel"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" width="45" height="45" title="Power Query"/>
+  <img src="https://raw.githubusercontent.com/gist/Senipah/cbfa43cf472fd03fbb322e00ae4fe7c7/raw/c5ec1261f6e9a1cfe4aa8b07dae94265973690fb/roundel-VBA-grey.svg" width="45" height="45" title="VBA / Macros"/>
+</p>
 
-#### Programming & Version Control
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+<h4>Programming & Version Control</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" title="Git"/>
+</p>
 
----
+<hr/>
 
